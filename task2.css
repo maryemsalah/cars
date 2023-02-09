@@ -1,0 +1,167 @@
+body{
+    background-color: #cccccc;
+ font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.bg{
+
+margin-left:-8px ;
+margin-right: -90px;
+margin-top: -10px;
+
+}
+.big{ display:flex;
+
+
+}
+
+.social {
+  
+    background-color: black;
+    width: 900px;
+    margin-top: -10px;
+   
+    
+} 
+.icons{
+    margin-top: 50px;
+    margin-left: 430px;
+    margin-top: 25px;
+    background-color: black;
+}
+.header{
+    background-color: black;
+   
+}
+
+.nav{
+    text-align: center;
+    margin-top: 1px;
+    height: 55px;
+    display: flex;
+background-color: black;
+margin-left: -10px;
+font-size: 19px;
+
+}
+
+.nav a{
+    text-decoration: none;
+    color: #9b9999;
+background-color: black;
+padding: 0px 9px;
+margin:15px;
+}
+a:hover{
+    background-color:#4E96FD;
+    width: 60px;
+    height:initial;
+ 
+ 
+    
+}
+/* start section*/
+.sec1 img{
+    width: 1338px;
+  
+ margin: 11px 11px 11px 6px;
+  
+}
+.sec2{
+    display: flex;
+   
+}
+.NEWS{
+    padding-left: 45PX;
+}
+ h1{
+    padding-left: 19px;
+    margin-bottom: 10px;
+    color: #079BFD;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+font-weight: lighter;
+}
+.p1{
+    width: 850px;
+    font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+font-size: 20px;
+text-align: justify;
+padding-bottom: 18px;
+
+}
+
+li p{
+
+
+    margin-top: -22px;
+   
+ 
+}
+.firstp{
+    font-size: 20px;
+    font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+ 
+}
+.firstp li p{
+    list-style-position: inside;
+}
+h3{
+    padding-left: 22px;
+}
+.the{
+    color: #FD6200;
+}
+.jan {
+  color: #2196FD;  
+  margin-top:-17px;
+}
+.p{
+    margin-left: 20px;
+    margin-top: -4px;
+    font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    letter-spacing: 1px;
+text-align: justify;
+}
+/* section3 */
+.sec3 {
+    display: flex;
+}
+
+  .car   {
+    border: #fff 1px solid;
+    padding: 5px;
+    width: 350px;
+    display: flex;
+  height: 250px;
+     
+  
+}
+.car2{
+    border: #fff 1px solid;
+    padding: 5px;
+    width: 350px;
+    display: flex;
+  height: 250px;
+    margin-left: 50px; 
+  
+}
+
+.aside{
+    display: block;
+    margin-left:100px;
+    font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    letter-spacing: 1px;
+text-align: justify;
+margin-right: 60px;
+}
+hr {
+    border: 1px solid #59584f;
+  }
+.footer{
+
+text-align: center;
+}

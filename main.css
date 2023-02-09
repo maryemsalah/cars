@@ -1,0 +1,129 @@
+body{
+    background-color: #cccccc;
+ font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.bg{
+
+    margin-left:-8px ;
+    margin-right: -90px;
+    margin-top: -10px;
+    
+    }
+    .big{ display:flex;
+
+
+    }
+    .social {
+  
+        background-color: black;
+        width: 900px;
+        margin-top: -10px;
+       
+        
+    } 
+    .icons{
+        margin-top: 50px;
+        margin-left: 430px;
+        margin-top: 25px;
+        background-color: black;
+    }
+    .header{
+        background-color: black;
+       
+
+    }
+    .nav{
+        text-align: center;
+        margin-top: 1px;
+        height: 55px;
+        display: flex;
+    background-color: black;
+    margin-left: -10px;
+    font-size: 19px;
+    
+    }
+    .nav a{
+        text-decoration: none;
+        color: #9b9999;
+    background-color: black;
+    padding: 0px 9px;
+    margin:15px;
+    }
+    a:hover{
+        background-color:#4E96FD;
+        width: 60px;
+        height:initial;
+        
+    }
+
+    .sec1 img{
+        width: 1338px;
+      
+     margin: 11px 11px 11px 6px;
+      
+    }
+    .sec2{
+        display: flex;
+       
+    }
+    .NEWS{
+        padding-left: 45PX;
+    }
+     h1{
+        padding-left: 19px;
+        margin-bottom: 10px;
+        color: #079BFD;
+        font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    font-weight: lighter;
+    }
+    .p1{
+       
+        font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+        font-weight: lighter;
+        font-size: 19px;
+        letter-spacing: 1px;
+    text-align: justify;
+    }
+
+    .two-cars{
+        margin-left: 140px;
+        margin-top: 60px;
+      
+    }
+    .two-cars img{
+        width: 470px;
+        padding-left: 60px;
+      
+    }
+    .twoo-cars{
+        margin-left: 140px;
+        margin-top: 50px;
+    }
+    .twoo-cars img{
+        width: 470px;
+        padding-left: 60px;
+      
+    }
+    .end {
+        font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+        text-align: justify;
+        font-size: 20px;
+        margin-top:120px;
+    }
+    hr {
+        margin-top: 80px;
+        border: 1px solid #59584f;
+      }
+    .footer{
+        margin-top: 20px;
+
+        text-align: center;
+        }
+        .endd {
+            margin-top: -10px;
+
+        }
+
+
+ 
+  
